@@ -1,8 +1,7 @@
 ### Deployed smartcontract address: 0x8d6e7112db08040d5e47d83f970a116b93a622786e95acc8e4f89f92320f049b
 
-### Screenshot: 
-![WhatsApp Image 2024-10-07 at 2 04 34 PM](https://github.com/user-attachments/assets/642c3acb-01a6-4338-b58e-d6e5b0e43db8)
 
+![Screenshot (2)](https://github.com/user-attachments/assets/0a59949b-1f93-4f6d-9c11-9f941448be29)
 
 # Decentralized Fitness Tracker
 
